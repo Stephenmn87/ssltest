@@ -1,6 +1,0 @@
-# ignore oTree-app folder
-otree/
-otree_docker/
-.idea/
-venv/
-.DS_Store
